@@ -1,2 +1,2 @@
 Day 1 Changes
-Day 2 Changes
+Day 2 Changes | Changes made in github | Now trying to pull with local git...
